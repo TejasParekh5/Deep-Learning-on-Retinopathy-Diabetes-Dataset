@@ -102,7 +102,6 @@ Both scripts include EarlyStopping and ModelCheckpoint callbacks to avoid overfi
 ## Evaluation
 After training, run the following command to generate metrics, confusion matrices, and accuracy/loss curves.
       
-      ```bash
       python evaluate.py
  
 This README snippet provides clear instructions on how to prepare the data, train the models, and evaluate their performance.
